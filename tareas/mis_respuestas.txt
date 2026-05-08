@@ -10,14 +10,14 @@ PREGUNTA 1 (5 pts)
 ¿Cuál es la diferencia entre "git add" y "git commit"?
 
 Tu respuesta:
-[Escribe aquí]
+[la diferencia es que git add sirve para ]
 
 ----------------------------------------------------------------
 PREGUNTA 2 (5 pts)
 ¿Qué hace el comando "git pull"? ¿Cuándo debes usarlo?
 
 Tu respuesta:
-[Escribe aquí]
+[git pull es el paso que se ocupa al final de la modificación de archivos en un repositorio, sirve para subir todos los archivos al repositorio]
 
 ----------------------------------------------------------------
 PREGUNTA 3 (5 pts)
