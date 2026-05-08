@@ -10,7 +10,7 @@ PREGUNTA 1 (5 pts)
 ¿Cuál es la diferencia entre "git add" y "git commit"?
 
 Tu respuesta:
-[la diferencia es que git add sirve para ]
+[la diferencia es que git add sirve para agregar cambios y commit sirve para escribir un mensaje sobre el cambio hecho (o la modificacion que uno quiera nombrar) ]
 
 ----------------------------------------------------------------
 PREGUNTA 2 (5 pts)
@@ -24,7 +24,7 @@ PREGUNTA 3 (5 pts)
 ¿Qué diferencia hay entre un repositorio local y uno remoto?
 
 Tu respuesta:
-[Escribe aquí]
+[el local se guarda en una carpeta en la unidad escogida (personal) y se trabaja de forma autonoma, y el remoto se guarda en algun formato cloud y sirve para trabajar de manera colaborativa ]
 
 ----------------------------------------------------------------
 PREGUNTA 4 (5 pts)
@@ -32,7 +32,9 @@ Escribe la secuencia completa de comandos para subir un nuevo
 archivo llamado "datos.csv" a GitHub (desde git add hasta push):
 
 Tu respuesta:
-[Escribe aquí]
+[git add .
+git commit -m "Se agrega datos.csv al repositorio"
+git push origin main]
 
 ----------------------------------------------------------------
 FIN DEL ARCHIVO
